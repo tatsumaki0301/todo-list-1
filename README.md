@@ -42,13 +42,13 @@
 16. seed 実施 (php artisan db:seed)  
 17. CSS作成  
 18. 追加ボタン実装  
-19. Controller(add) Model(fillable) 記述  
+19. TodoController(add) Model(fillable) 記述  
 20. 更新ボタン実装
-21. Controller(update) 記述  
+21. TodoController(update) 記述  
 22. 削除ボタン実装  
-23. Controller(delete) 記述  
+23. TodoController(delete) 記述  
 24. Pagination 実装  (php artisan vendor:publish --tag=laravel-pagination)
-25. Controller (index) 記述  
+25. TodoController (index) 記述  
 26. CSS作成  
 
 
