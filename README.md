@@ -27,9 +27,10 @@
 01. VScode 使用　　
 02. XAMPP 使用  
 03. Apache , Mysql 起動  
-04. Laravel project作成ディレクトリ作成  
-05. VScodeでディレクトリ読み込み  
-06. Laravel project作成  
+04. Laravel project作成用ディレクトリ作成
+05. VScodeのターミナルで作成用ディレクトリ読み込み  
+06. ターミナルでLaravel project作成  
+07. PJディレクトリへ移動
 07. MySQL DB 作成  
 08. Laravel .env DB部 変更  
 09. Model 作成 (Todo.php)  
