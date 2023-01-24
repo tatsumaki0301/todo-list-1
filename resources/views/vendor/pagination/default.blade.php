@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="/css/paginate-1.css" >
+
+</head>
 @if ($paginator->hasPages())
     <nav>
         <ul class="pagination">
